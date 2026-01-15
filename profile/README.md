@@ -5,7 +5,7 @@
 ### What do we actually do?
 
 <div style="border-radius:20px; overflow:hidden;">
-  <img src="assets/talyon_banner_new.png" alt="Talyon banner" />
+  <img src="../assets/talyon_banner_new.png" alt="Talyon banner" />
 </div>
 
 We maintain a high variety of software, from free and open source to closed source high-end premium apps.
